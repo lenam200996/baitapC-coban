@@ -1,0 +1,9 @@
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_5\bin\Debug\BaiTap_Bai_5.exe.config
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_5\bin\Debug\BaiTap_Bai_5.exe
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_5\bin\Debug\BaiTap_Bai_5.pdb
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_5\obj\Debug\BaiTap_Bai_5.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_5\obj\Debug\BaiTap_Bai_5.Form1.resources
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_5\obj\Debug\BaiTap_Bai_5.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_5\obj\Debug\BaiTap_Bai_5.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_5\obj\Debug\BaiTap_Bai_5.exe
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_5\obj\Debug\BaiTap_Bai_5.pdb

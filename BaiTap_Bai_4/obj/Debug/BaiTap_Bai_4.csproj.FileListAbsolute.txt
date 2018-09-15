@@ -1,0 +1,8 @@
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_4\bin\Debug\BaiTap_Bai_4.exe.config
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_4\bin\Debug\BaiTap_Bai_4.exe
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_4\bin\Debug\BaiTap_Bai_4.pdb
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_4\obj\Debug\BaiTap_Bai_4.Form1.resources
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_4\obj\Debug\BaiTap_Bai_4.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_4\obj\Debug\BaiTap_Bai_4.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_4\obj\Debug\BaiTap_Bai_4.exe
+d:\documents\visual studio 2012\Projects\BaiTap_Bai_1\BaiTap_Bai_4\obj\Debug\BaiTap_Bai_4.pdb
